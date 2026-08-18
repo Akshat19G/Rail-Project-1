@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 This project was built with [Lovable](https://lovable.dev).
@@ -27,3 +28,6 @@ npm run dev
 - TypeScript
 - React
 - Tailwind CSS
+=======
+# Rail-Chikitsak
+>>>>>>> a83734d3248acd5ad9fb7584ec778a14e329b38c
